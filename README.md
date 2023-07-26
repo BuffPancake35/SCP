@@ -1,5 +1,6 @@
 # SCP
-this is an scp game im working on bc im bored
+The game is based on the works of the SCP Foundation community (http://www.scp-wiki.net/) and SCP:CB (https://www.scpcbgame.com/).
 
-a lot of the assets currently are from SCP:CB but im planning on swapping them out
-once i get the game up and going (hopefully)
+This game and the source code are licensed under Creative Commons Attribution-ShareAlike 3.0 License.
+
+http://creativecommons.org/licenses/by-sa/3.0/
